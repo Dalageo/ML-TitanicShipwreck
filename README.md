@@ -24,7 +24,7 @@ In this project, two different approaches are explored and compared based on mod
 
 - **2. Filling Missing Data**: This approach fills in missing values in an effort to retain more data and potentially enhance the model's performance.
 
-Overall, more robust models (Random Forest, XGBoost) were achieved using the second approach, which involved filling in missing values. The developed model was also submitted to Kaggle’s [Titanic-Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) competition, where it ranked in the top 9.38% (1316 out of 14036). 
+Overall, more robust models (Random Forest, XGBoost) were achieved using the second approach, which involved filling in missing values. A version of the developed model was also submitted to Kaggle’s [Titanic-Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) competition, where it ranked in the top 9.38% (1316 out of 14036). 
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/0b991de5-3238-4b7f-96bd-99216d136574" alt="Kaggle" width = "800" height = "150"/>
@@ -32,7 +32,7 @@ Overall, more robust models (Random Forest, XGBoost) were achieved using the sec
 
 Given that the true survival status of Titanic passengers is publicly available, some higher-ranked entries likely used manually crafted labels to achieve near-perfect accuracies. Therefore, the actual position of the provided model could be higher if all competitors strictly followed the competition rules. You can also find the Kaggle's notebook [here](https://www.kaggle.com/code/dalageo/exploring-the-world-s-most-renowned-shipwreck).
 
-*It's important to note that the score shown in the above image (0.78947) was achieved through a **slightly** modified ensemble model and different parameter tuning compared to the provided notebook (0.78468). These exact details are not shared here to encourage independent experimentation and to prevent you from overfitting.* 😜
+*It's important to mention that the score shown in the above image (0.78947) was achieved through a **slightly** modified ensemble model and different parameter tuning compared to the provided notebook (0.78468). These exact details are not shared here to encourage independent experimentation and to prevent you from overfitting.* 😜
 
 
 ## Data Description
