@@ -1,8 +1,8 @@
-<div align="left">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/3f727ef5-2d2c-45ec-ab62-3e4a049e2168" alt="Titanic Gif" width="700"/>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://colab.research.google.com/drive/1itTfyj5bdfKmYyCkwf01IpkzQuB4Nxm7?usp=sharing" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a>
    <a href="https://www.kaggle.com/competitions/titanic/leaderboard" target="_blank">
