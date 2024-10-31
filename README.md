@@ -35,7 +35,7 @@ Given that the true survival status of Titanic passengers is publicly available,
 *It's important to mention that the score shown in the above image (0.78947) was achieved through a **slightly** modified ensemble model and different parameter tuning compared to the provided notebook (0.78468). These exact details are not shared here to encourage independent experimentation and to prevent you from overfitting.* 😜
 
 
-## Data Description
+## Dataset Description
 
 The Titanic dataset used in this project is divided into two main files: `train.csv` and `test.csv`. Below is a brief description of each file:
 
