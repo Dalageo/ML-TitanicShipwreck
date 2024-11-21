@@ -14,7 +14,7 @@
 
 # Exploring the World's Most Renowned Shipwreck 🚢
 
-In 1912, the Titanic set off on its first voyage across the Atlantic Ocean, carrying passengers ranging from the wealthy elite to emigrants seeking a new life. Tragically, the ship collided with an iceberg and sank, resulting in the loss of over 1,500 lives. This disaster not only shook the world but also sparked discussions about maritime safety and the social dynamics of the time.
+In 1912, the Titanic set off on its first voyage across the Atlantic Ocean, carrying passengers ranging from the wealthy elite to emigrants seeking a new life. Tragically, the ship collided with an iceberg and sank, resulting in the loss of over 1,500 lives. This disaster not only shook the world but also sparked discussions about maritime safety and the social dynamics of the time..
 
 This repository explores the factors affecting passenger survival on the Titanic and aims to build a predictive model to estimate survival probabilities based on available passenger characteristics. The available dataset contains a detailed records of the passengers aboard, including information such as age, gender, passenger class, fare paid, and survival outcome. However, some key data points are missing, particularly in features like age and cabin, which poses challenges for building accurate predictive models. 
 
